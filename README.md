@@ -1,5 +1,7 @@
 template pro app.fakturuj.si
 
+main deploy running at: https://app.fakturuj.si
+
 
 [Fakturuj.si preview screens.zip](https://github.com/user-attachments/files/19491244/Fakturuj.si.preview.screens.zip)
 

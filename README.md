@@ -1,3 +1,13 @@
+template pro app.fakturuj.si
+
+
+[Fakturuj.si preview screens.zip](https://github.com/user-attachments/files/19491244/Fakturuj.si.preview.screens.zip)
+
+
+![WhatsApp Image 2025-03-25 at 00 07 43](https://github.com/user-attachments/assets/c5a1122e-40e2-4d87-be94-17e509b4837e)
+
+
+
 # [Django Soft Dashboard PRO](https://app-generator.dev/product/soft-ui-dashboard-pro/django/)
 
 **Django** starter styled with **[Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)**, a premium `Bootstrap 5` KIT from `Creative-Tim`.
